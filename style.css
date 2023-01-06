@@ -49,5 +49,12 @@ h1 {
 
 .myself_img {
     text-align: center;
-    
+    border: 1px solid black;
+}
+
+#myImage {
+    width: 1008px;
+    height: auto;
+    padding: 10px 0px;
+
 }
