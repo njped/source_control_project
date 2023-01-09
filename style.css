@@ -31,6 +31,10 @@ h1 {
     color: black;
 }
 
+p {
+    text-indent: 60px;
+}
+
 .home {
     border-left: 2px solid #d9d9d9;
     border-right: 1px solid #d9d9d9;
@@ -49,12 +53,60 @@ h1 {
 
 .myself_img {
     text-align: center;
-    border: 1px solid black;
 }
 
 #myImage {
     width: 1008px;
     height: auto;
     padding: 10px 0px;
+}
+
+#footer {
+    background-color: #737373;
+    padding: 50px 0px;
+}
+
+.hobby1 {
+    font-size:22px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 10px;
+    display: flex;
+
+}
+
+#myFamily {
+    width: 230px;
+    height: auto;
+    padding: 10px;
+    float: right;
+}
+
+.hobby2 {
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    display: flex;
+}
+
+#morales {
+    width: 150px;
+    height: auto;
+    padding: 10px;
+    float: right;
+
+}
+
+.hobby3 {
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 10px;
+    display: flex;
+}
+
+#reinSlime {
+    width: 280px;
+    height: auto;
+    padding: 10px;
+    float: right;
 
 }
